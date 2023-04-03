@@ -1,0 +1,26 @@
+@@ -0,0 +1,25 @@
+# Fungsi pure untuk menambahkan dua angka
+def add(a, b):
+    return a + b
+
+# Fungsi pure untuk mengurangi dua angka
+def subtract(a, b):
+    return a - b
+
+# Fungsi untuk mengaplikasikan fungsi pada daftar
+def apply(func, data):
+    result = []
+    for item in data:
+        result.append(func(item))
+    return result
+
+# Contoh penggunaan apply dengan fungsi add dan daftar angka
+numbers = [1, 2, 3, 4, 5]
+result = apply(add, numbers)
+print(result)
+# Output: [2, 3, 4, 5, 6]
+
+# Contoh penggunaan apply dengan fungsi subtract dan daftar angka
+result = apply(subtract, numbers)
+print(result)
+# Output: [0, -1, -2, -3, -4]
