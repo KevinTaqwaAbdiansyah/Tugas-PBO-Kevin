@@ -1,0 +1,19 @@
+@@ -0,0 +1,18 @@
+# Membuat kelas dengan dua metode
+class Calculator:
+    def __init__(self, num1, num2):
+        self.num1 = num1
+        self.num2 = num2
+
+    def add(self):
+        return self.num1 + self.num2
+
+    def subtract(self):
+        return self.num1 - self.num2
+
+# Contoh penggunaan kelas Calculator untuk menambah dan mengurangi angka
+calculator = Calculator(10, 5)
+print(calculator.add())
+# Output: 15
+print(calculator.subtract())
+# Output: 5
