@@ -1,7 +1,7 @@
 # Tugas PBO
 Functional programming dan OOP (Object-Oriented Programming) adalah dua paradigma pemrograman yang berbeda dalam cara mereka memetakan solusi masalah. Di Python, Anda dapat menggunakan keduanya atau bahkan menggabungkannya.
 
-Berikut adalah perbedaan antara Functional Programming dan OOP pada Python Beserta kode contoh pda program masing masing:
+Berikut adalah perbedaan antara Functional Programming dan OOP pada Python Beserta kode contoh pada program masing masing:
 
 1.) Functional programming didasarkan pada pemikiran matematis, dengan fokus pada fungsi murni (pure function) yang menerima argumen dan mengembalikan nilai tanpa mengubah argumen atau variabel global lainnya. Beberapa ciri utama dari functional programming adalah tidak adanya side effect dan immutable data.
 
