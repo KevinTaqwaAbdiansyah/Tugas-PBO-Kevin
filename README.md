@@ -5,7 +5,7 @@ Berikut adalah perbedaan antara Functional Programming dan OOP pada Python Beser
 
 1.) Functional programming didasarkan pada pemikiran matematis, dengan fokus pada fungsi murni (pure function) yang menerima argumen dan mengembalikan nilai tanpa mengubah argumen atau variabel global lainnya. Beberapa ciri utama dari functional programming adalah tidak adanya side effect dan immutable data.
 
-Penjelasan Program pada contoh program 1,Pada kode tersebut, terdapat tiga fungsi:
+Penjelasan Program pada contoh program 1,Pada kode tersebut terdapat tiga fungsi:
 
 add(a, b): Fungsi pure untuk menambahkan dua angka. Fungsi ini menerima dua parameter a dan b, dan mengembalikan hasil penjumlahan a dan b.
 subtract(a, b): Fungsi pure untuk mengurangi dua angka. Fungsi ini menerima dua parameter a dan b, dan mengembalikan hasil pengurangan a dan b.
