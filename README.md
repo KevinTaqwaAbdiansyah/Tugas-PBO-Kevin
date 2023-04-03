@@ -17,7 +17,7 @@ Pada contoh kedua, kita melakukan hal yang sama dengan menggunakan fungsi subtra
 
 2.) OOP didasarkan pada konsep objek, di mana suatu objek memiliki atribut (properti) dan metode (fungsi). Objek dapat berinteraksi satu sama lain melalui metode dan mewarisi properti dan metode dari kelas yang lebih umum. Pemrograman berorientasi objek bertujuan untuk mengorganisasi kode menjadi modul yang saling terkait dan memudahkan pengembangan aplikasi yang kompleks.
 
-Penjelasan Program pada contoh program 2, Pada kode tersebut, terdapat sebuah kelas Calculator yang memiliki dua metode, yaitu add dan subtract. Metode add digunakan untuk melakukan penjumlahan antara dua angka, sedangkan metode subtract digunakan untuk melakukan pengurangan antara dua angka.
+Penjelasan Program pada contoh program 2, Pada kode tersebut terdapat sebuah kelas Calculator yang memiliki dua metode, yaitu add dan subtract. Metode add digunakan untuk melakukan penjumlahan antara dua angka, sedangkan metode subtract digunakan untuk melakukan pengurangan antara dua angka.
 
 Ketika sebuah objek Calculator dibuat dengan memanggil kelas tersebut, nilai num1 dan num2 akan disimpan di dalam objek sebagai atribut self.num1 dan self.num2. Pada saat pemanggilan metode add dan subtract, objek tersebut akan menggunakan nilai num1 dan num2 yang disimpan pada atributnya untuk melakukan perhitungan dan mengembalikan hasilnya.
 
